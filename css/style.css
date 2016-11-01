@@ -2,6 +2,8 @@
     float: left;
     width: auto;
     height: auto;
+    padding-right: 60px;
+    padding-left: 80px;
 }
 .logo-left img{
     width: auto;
@@ -15,5 +17,24 @@
 .logo-right img{
     width: auto;
     height: 10em;
+}
+
+#logo {
+    width: 1.5em;
+    height: auto;
+}
+
+.na a{
+    margin: 0;
+    padding: 0px;
+}
+
+#na{
+    margin: 0;
+    padding-top: 8px;
+}
+
+.center{
+    margin-left: 72%;
 }
 
