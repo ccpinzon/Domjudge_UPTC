@@ -1,3 +1,19 @@
-.navbar{
-
+.logo-left{
+    float: left;
+    width: auto;
+    height: auto;
 }
+.logo-left img{
+    width: auto;
+    height: 10em;
+}
+.logo-right{
+    float: right;
+    width: auto;
+    height: auto;
+}
+.logo-right img{
+    width: auto;
+    height: 10em;
+}
+
